@@ -49,7 +49,7 @@ To set up a virtual environment named `ReperGeom` and install the necessary depe
    pip install -r requirements.txt
    ```
 
-## Running Experiments
+## ▶️ Running Experiments
 
 ### Experiments for Flatlizard and Chameleon Datasets
 
