@@ -28,7 +28,7 @@ The table below presents accuracy comparisons between different ranking inferenc
 | [CC](https://link.springer.com/chapter/10.1007/978-3-031-26419-1_5)                                 | 0.66±0.10     | 0.78±0.08      |
 | [KCC](https://link.springer.com/chapter/10.1007/978-3-031-26419-1_5)                                | 0.71±0.06     | 0.78±0.03      |
 | Vanilla Ideal Point Method ([XD20](https://proceedings.neurips.cc/paper/2020/file/0561bc7ecba98e39ca7994f93311ba23-Paper.pdf),[MD21](https://jmlr.csail.mit.edu/papers/volume22/18-105/18-105.pdf) ,[CMVN22](https://proceedings.neurips.cc/paper_files/paper/2022/file/1fd4367793bcd3ad38a0b820fcc1b815-Paper-Conference.pdf))  | 0.66±0.07     | 0.70±0.05      |
-| **Kernelelized Ideal Point Method (ours)**          | **TBA**     | **TBA**      |
+| **Kernelelized Ideal Point Method (ours)**          | **0.83±0.08**     | **0.78±0.05**      |
 
 ## 🔧 Getting Started: Setting Up and Running Experiments
 
