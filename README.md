@@ -108,9 +108,9 @@ bash scripts/run.sh --num_epochs 1000 --data_set synthetic --method vanilla --nu
 
 ```bibtex
   @article{TODO,
-          title={Representer Theorems for Metric and Preference Learning: Geometric Insights and Practical Algorithms}, 
+          title={Representer Theorems for Metric and Preference Learning: Geometric Insights and Algorithms}, 
           author={Morteza, Peyman},
-          journal={TODO},
+          journal={Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS)},
           year={2025}
           }
 ```
