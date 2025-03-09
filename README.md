@@ -7,7 +7,7 @@ This repository provides the official implementation of the paper:
 
 The codebase includes implementations of kernelized ideal point methods and comparative baselines, along with scripts to reproduce experimental results.
 
-![Alt text](img/teaser.png "RKHS")
+![Alt text](img/teaser_update.png "RKHS")
 ---
 
 ## 🔧 Getting Started: Setting Up and Running Experiments
