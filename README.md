@@ -2,7 +2,7 @@
 
 This repository provides the official implementation of the paper:
 
-"**Representer Theorems for Metric and Preference Learning: Geometric Insights and Algorithms (https://openreview.net/forum?id=hzi5UXGqHb)**"
+"**[Representer Theorems for Metric and Preference Learning: Geometric Insights and Algorithms](https://openreview.net/forum?id=hzi5UXGqHb)**"
 📌 Authored by *Peyman Morteza (2025)*
 
 The codebase includes implementations of kernelized ideal point methods and comparative baselines, along with scripts to reproduce experimental results.
@@ -108,12 +108,14 @@ The table below presents accuracy comparisons between different ranking inferenc
 ## 📄 Citation
 
 ```bibtex
-  @article{TODO,
-          title={Representer Theorems for Metric and Preference Learning: Geometric Insights and Algorithms}, 
-          author={Morteza, Peyman},
-          journal={Proceedings of the International Conference on Artificial Intelligence and Statistics (AISTATS)},
-          year={2025}
-          }
+@inproceedings{
+morteza2025representer,
+title={Representer Theorems for Metric and Preference Learning: A Geometric Perspective},
+author={Peyman Morteza},
+booktitle={The 28th International Conference on Artificial Intelligence and Statistics},
+year={2025},
+url={https://openreview.net/forum?id=hzi5UXGqHb}
+}
 ```
 ## 📌 Footnotes
 
